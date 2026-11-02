@@ -5,6 +5,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+//URL del repositorio: https://github.com/PabloPoza2/PabloPoza2-Practica-ADD1.git
+
 public class SimuladorStarWars {
     public static void main(String[] args) {
         Path ruta = Paths.get("datos");
